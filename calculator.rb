@@ -1,1 +1,1 @@
-first_number = #{''./calculator.rb}
+first_number = #{'/calculator.rb'}
