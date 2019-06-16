@@ -1,1 +1,1 @@
-first_number = discribe
+first_number = describe
