@@ -1,1 +1,1 @@
-first_number = discribe #{get_variable_from_file}
+first_number = discribe
